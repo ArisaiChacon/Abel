@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "13wLW1mGKWJlgwwEvHkpiShMJZNpx4HZFL3ZP2cUjyn54L/N4eRj814CSUq70iqGn7sQkNS1RdqXSX/HB+nOcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\horti\\Downloads\\JOEL\\ContosoUniversity\\ContosoUniversity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\horti\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\horti\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\horti\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\horti\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\horti\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\horti\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
